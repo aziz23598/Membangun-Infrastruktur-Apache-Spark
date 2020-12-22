@@ -20,9 +20,9 @@ sudo apt install default-jdk
  
 4.	Melihat versi java
 
-Langkah selanjutnya adalah kita cek jdk kita tadi sudah berhasil kita instal atau belum. Caranya dengan mengecek versi java dengan mengetikan perintah java –version. Jika muncul versinya, maka kita telah berhasil menginstall jdk.
+Langkah selanjutnya adalah kita cek jdk kita tadi sudah berhasil kita instal atau belum. Caranya dengan mengecek versi java dengan mengetikan perintah java --version. Jika muncul versinya, maka kita telah berhasil menginstall jdk.
 
-java –version
+java --version
  
 5.	Download paket Apache Spark
 
